@@ -212,7 +212,7 @@ nav a:focus {
 
 .about-us__intro {
     background-color: var(--clr-accent);
-    background-image: url(../image/images\ \(1\).jpg);
+    background-image: url(../image/image1.jpg);
     background-blend-mode: multiply;
     background-size: cover;
     padding: 3em 1em 1.5em;
