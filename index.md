@@ -57,7 +57,7 @@
             </header>
             <div class="products">
                 <div class="product"> 
-                    <img src="/image/images (1).jpg" alt="" class="product__img">
+                    <img src="./image/images (1).jpg" alt="" class="product__img">
                     <div class="product__content">                   
                         
                         <h3 class="product__title">Chiken pie</h3>
@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <div class="product">
-                    <img src="/image/images (2).jpg" alt="" class="product__img">
+                    <img src="./image/images (2).jpg" alt="" class="product__img">
                     <div class="product__content"> 
                     
                         
@@ -78,7 +78,7 @@
                     </div>
                 </div>
                 <div class="product">
-                    <img src="/image/images (4).jpg" alt="" class="product__img">
+                    <img src="./image/images (4).jpg" alt="" class="product__img">
                     <div class="product__content"> 
           
                         
